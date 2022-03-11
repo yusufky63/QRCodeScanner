@@ -1,0 +1,86 @@
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.exe.config
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.exe
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.pdb
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\Guna.UI2.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.presentation.dll
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.xml
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.xml
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.xml
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.presentation.xml
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csprojAssemblyReference.cache
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmInfo.resources
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmQRCodeCreate.resources
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.CopyComplete
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu.exe
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu.pdb
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmMain.resources
+C:\Users\Yusuf\source\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmSplash.resources
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.exe.config
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.exe
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.pdb
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.DirectShow.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\Guna.UI2.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\MessagingToolkit.QRCode.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.presentation.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.xml
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.xml
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.DirectShow.xml
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.xml
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.presentation.xml
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.AssemblyReference.cache
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmMain.resources
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmInfo.resources
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmQRCodeCreate.resources
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmSplash.resources
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.Properties.Resources.resources
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.GenerateResource.cache
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.CopyComplete
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu.exe
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu.pdb
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Imaging.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Math.dll
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Imaging.xml
+D:\Yeni klasör\repos\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Math.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.exe.config
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.exe
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\QR Kod Okuyucu.pdb
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Imaging.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Math.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\Guna.UI2.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.presentation.dll
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Imaging.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Math.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\bin\Debug\zxing.presentation.xml
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.AssemblyReference.cache
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmMain.resources
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmInfo.resources
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmQRCodeCreate.resources
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.FrmSplash.resources
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR_Kod_Okuyucu_Tasarım.Properties.Resources.resources
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.GenerateResource.cache
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu-Tasarım.csproj.CopyComplete
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu.exe
+C:\Users\Yusuf\Desktop\QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım\obj\Debug\QR Kod Okuyucu.pdb

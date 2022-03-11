@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR Kod Okuyucu-Tasarım", "QR Kod Okuyucu-Tasarım\QR Kod Okuyucu-Tasarım.csproj", "{7B80AA7C-C499-405C-A826-5346CF745363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B80AA7C-C499-405C-A826-5346CF745363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B80AA7C-C499-405C-A826-5346CF745363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B80AA7C-C499-405C-A826-5346CF745363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B80AA7C-C499-405C-A826-5346CF745363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {727F1410-A63B-48CD-8D79-497B643BDD11}
+	EndGlobalSection
+EndGlobal
